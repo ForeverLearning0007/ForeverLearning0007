@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- Hello Everyone. I would like to take the time to introduce myself. Everyone calls me Coach.  I've spend the majority of my life teaching and coaching, basketball mostly, but also and not limited to football, baseball, soccer and track and field.
+- Hello Everyone. I would like to take the time to introduce myself. Everyone calls me Coach.  I've spent the majority of my life teaching and coaching, basketball mostly, but also and not limited to football, baseball, soccer and track and field.
 - 🌱 I’m currently learning C++, SFML, HTML, CSS and Javascript
 - 👯 I’m looking to collaborate on anything and everything that involves what I'm learning. Even if it's not something I'm learning, I'm willing to
 - 🤔 I’m looking for help with Game Development. I have wanted to make a game for years and I'm not taking the initiative to make the game that I've been thinking about
